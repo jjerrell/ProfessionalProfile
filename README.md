@@ -1,15 +1,14 @@
 # Jacob Jerrell
 
 - 👋 Hi, I’m Jacob Jerrell <@jjerrell>
-  - 💼 Software Engineer and Technical Consultant. Possibly known to some as "The Technology Whisperer" -- it's possible
+  - 💼 Software Engineer and Technical Consultant. Possibly known to some as "The Technology Whisperer" -- it's possible.
   - 🧙‍♂️ Pronouns or responds-to: He, Him, "Hey, you!", "Get help!", and many other ambiguous terms, character references, or calls to action.
-  - 🙃 If you're looking for my personal profile, it is maintained under the [main branch](https://github.com/jjerrell/jjerrell/tree/main) and renders on my Github profile.
-  - 🔭 This branch is continuously deployed to [Github Pages](https://jjerrell.github.io/jjerrell/) if you would prefer a rendered view.
+  - 🔭 This branch is continuously deployed to [Github Pages]() if you would prefer a rendered view.
 - 📫 Reach me via GitHub <@jjerrell> or email jjerrell_career@icloud.com
   - 📝 The listed email address is a relay to a dummy mailbox that forwards non-suspect messages to my real address.
     - 🪙 It is highly subject to change.
     - ⛔️ Adding it to a mailing list would be frivalous.
-    - 🧑‍🦯 Obfuscation compromises usability. Fulfill your moral obligation as a skilled software engineer and stop harvesting data.
+    - 🧑‍🦯 Obfuscation compromises usability. Fulfill your moral obligation as a skilled software engineer and stop harvesting personal data.
 
 ## Contents
 
