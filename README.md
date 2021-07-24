@@ -3,7 +3,7 @@
 - 👋 Hi, I’m Jacob Jerrell <@jjerrell>
   - 💼 Software Engineer and Technical Consultant. Possibly known to some as "The Technology Whisperer" -- it's possible.
   - 🧙‍♂️ Pronouns or responds-to: He, Him, "Hey, you!", "Get help!", and many other ambiguous terms, character references, or calls to action.
-  - 🔭 This branch is continuously deployed to [Github Pages]() if you would prefer a rendered view.
+  - 🔭 This branch is continuously deployed to [Github Pages](https://jjerrell.github.io/Jacob-Jerrells-Professional-Profile/) if you would prefer a rendered view.
 - 📫 Reach me via GitHub <@jjerrell> or email jjerrell_career@icloud.com
   - 📝 The listed email address is a relay to a dummy mailbox that forwards non-suspect messages to my real address.
     - 🪙 It is highly subject to change.
